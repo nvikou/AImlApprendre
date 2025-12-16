@@ -1,1 +1,5 @@
-https://nbviewer.org/github/nvikou/AImlApprendre/blob/main/ml/cc/exercises/binary_classification_rice.ipynb
+Liens nbviewer:
+
+1. https://nbviewer.org/github/nvikou/AImlApprendre/blob/main/ml/cc/exercises/binary_classification_rice.ipynb
+2. https://nbviewer.org/github/nvikou/AImlApprendre/blob/main/ml/cc/exercises/numerical_data_stats.ipynb
+3. https://nbviewer.org/github/nvikou/AImlApprendre/blob/main/ml/cc/exercises/numerical_data_bad_values.ipynb
