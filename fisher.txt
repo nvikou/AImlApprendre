@@ -1,0 +1,1 @@
+https://nbviewer.org/github/nvikou/AImlApprendre/blob/main/ml/cc/exercises/binary_classification_rice.ipynb
