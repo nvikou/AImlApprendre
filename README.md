@@ -10,9 +10,11 @@ pythonw "C:\Users\doc\i.py"
 2) Configuration dans le Planificateur de tâches
 Dans l’onglet Actions → Nouvelle… :
 Programme/script
+
 powershell.exe
 
 Ajouter des arguments (facultatif)
+
 -ExecutionPolicy Bypass -File "C:\Users\doc\toto.ps1"
 
 Oui, tu peux tout à fait utiliser Python directement dans le Planificateur de tâches, sans passer par PowerShell.
