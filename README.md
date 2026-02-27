@@ -27,3 +27,8 @@ python
 si Python n’est pas dans le PATH)
 si Python n’est pas dans le PATH)
 "C:\Users\doc\i.py"
+***
+https://www.chiny.me/construire-un-reseau-de-neurones-pour-des-donnees-non-lineaires-avec-keras-27-6.php
+https://www.scaler.com/topics/keras/keras-simple-model/
+https://apxml.com/courses/applied-data-science/chapter-1-advanced-data-acquisition-preparation/web-scraping-techniques
+https://github.com/ju4nv1e1r4/agents-with-adk/tree/main
